@@ -7,6 +7,9 @@ https://assetstore.unity.com/packages/3d/environments/urban/toony-tiny-city-demo
 https://assetstore.unity.com/packages/3d/props/industrial/garage-props-pack-132664
 
 Управление:
+
 Move - WASD/arrow-keys
+
 Interact - E
+
 Look - mouse
