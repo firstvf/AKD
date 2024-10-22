@@ -1,4 +1,5 @@
 Assets:
+
 https://assetstore.unity.com/packages/3d/characters/stylized-simple-hands-221297
 https://assetstore.unity.com/packages/3d/vehicles/land/low-poly-mini-pickup-truck-244733
 https://assetstore.unity.com/packages/3d/props/interior/simple-garage-197251
